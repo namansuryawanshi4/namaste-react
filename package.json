@@ -1,0 +1,33 @@
+{
+  "name": "ep1-basic",
+  "version": "1.0.0",
+  "description": "this is namaste-react webseries by akshay saini",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namansuryawanshi4/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "course"
+  ],
+  "author": "Naman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namansuryawanshi4/namaste-react/issues"
+  },
+  "homepage": "https://github.com/namansuryawanshi4/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "Last 2 versions"
+  ]
+}
